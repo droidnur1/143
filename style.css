@@ -14,7 +14,7 @@
 
 html {
   display: table;
-  width: 100%;
+  width: auto;
   height: 100vmin;
   table-layout: fixed;
 }
